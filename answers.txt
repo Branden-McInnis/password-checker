@@ -1,0 +1,57 @@
+Exercise 1:
+
+Trial 1: 
+
+Enter username: 
+bbones
+Enter password: 
+asdwedf
+Either the username or password is incorrect. You have 2 more attempts.
+Enter username: 
+bbones
+Enter password: 
+pass456!
+Login successful
+Welcome Brom Bones
+
+Process finished with exit code 0
+
+Trial 2: 
+
+Enter username: 
+ddude
+Enter password: 
+asdweqf
+Either the username or password is incorrect. You have 2 more attempts.
+Enter username: 
+wegfrwg
+Enter password: 
+rwgwrb
+Either the username or password is incorrect. You have 1 more attempts.
+Enter username: 
+wvwv
+Enter password: 
+wgewrg
+Sorry. Incorrect login. Please contact the system administrator.
+
+Process finished with exit code 0
+
+Trial 3:
+
+Enter username: 
+bbones
+Enter password: 
+pass456!
+Login successful
+Welcome Brom Bones
+
+Process finished with exit code 0
+
+Exercise 2: 
+
+Trial 1:
+
+TopNum: 
+1 2 3 4 5 
+E A B D C 
+Process finished with exit code 0
